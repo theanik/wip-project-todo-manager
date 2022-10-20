@@ -1,0 +1,9 @@
+Run : Api server 
+- cd /server
+- npm install
+- node app.js
+- api will listen port 7777 ('http://localhost:7777')
+
+Run : Fronted
+- cd /fronted
+- open the index.html file in you browser

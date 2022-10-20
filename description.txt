@@ -1,0 +1,23 @@
+This is a simple todo apllication
+
+It's have two part
+    1. Api (server)
+    2. Fronted (fronted)
+
+As Database here I have used json file
+    - data.json
+
+Fetures :
+    - Add todo
+    - Filter todo (completed, incompleted)
+    - Mark as done
+    - Delete todo
+    - Update todo
+
+Process: fronted will call api server to get and update data, based on api response we are showing data in fronted.
+
+Techology:
+    - Fronted : HTML, CSS, JS, jQuery, Ajax
+    - Server: Node.js, Express.js, FileSystem, JSON, CORS
+    - Database : Json file (data.json)
+
